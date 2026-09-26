@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hunter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hunter.io MCP — wraps the Hunter.io email finder & verification API (hunter.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-244fd4eeb1330abf7ff13efe883945d174f877fc1084f4bf598d5d82e73ddbb2",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-0caef89f4142becb2bb5299a26bafd7fe7de6c82b2646b604d30c815f60d5bb3",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
